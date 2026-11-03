@@ -1,0 +1,6 @@
+{
+  "name": "GameZone Pro - All-in-One Online Gaming Platform",
+  "description": "Explore and play free and premium HTML5 online games directly in your browser. Action, racing, sports, puzzle, arcade, and 3D games with zero downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
